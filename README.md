@@ -3,7 +3,7 @@
 ## Summary
 ⚠️ Archived Project for Portfilio Purposes ⚠️
 
-TC1 or TotalCom-1 is my first client and my first customer facing website ever! It was in 2015 and this website is still in use and receives very, very few changes.
+TC1 or TotalCom-1 is my first client and my first customer facing website ever! It was in 2015 and this website is still in use but has no receieved an update since 2015.
 
 ## Purpose
 Create a website for TotalCom-1 to branch out to new enterprise facing customers across the world and provide a clear and concise summary of their services, why they're so good at what they provide and how to contact them.
